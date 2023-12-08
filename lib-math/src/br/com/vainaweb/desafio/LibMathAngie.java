@@ -1,6 +1,7 @@
 package br.com.vainaweb.desafio;
 
 import java.lang.Math;
+
 public class LibMathAngie {
     public static double add(double... numbers) {
         double result = 0;
